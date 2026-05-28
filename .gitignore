@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checking
+.mypy_cache/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Database
+*.db
+*.sqlite3
+
+# Docker
+docker-data/
+
+# OpenSpec temporary files
+.openspec/
+
+# Cursor local cache
+.cursor/cache/
+
+# Gemini local state
+.gemini/tmp/
+
+# Node
+node_modules/
+
+# Secrets
+secrets/
+*.pem
+*.key
